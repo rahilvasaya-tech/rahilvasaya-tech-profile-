@@ -63,8 +63,4 @@ Enterprise AI architect with 18+ years of experience designing and delivering pr
 
 ## Connect
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/rahilvasaya)
+[LinkedIn](https://linkedin.com/in/rahilvasaya) | [GitHub](https://github.com/rahilvasaya-tech)
