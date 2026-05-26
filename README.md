@@ -54,7 +54,7 @@ Enterprise AI architect with 18+ years of experience designing and delivering pr
 
 | Repo | Description |
 |---|---|
-| [enterprise-rag-pipeline](https://github.com/rahilvasaya-tech/enterprise-rag-pipeline) | Full enterprise RAG architecture — query intelligence, hybrid retrieval, citation, governance |
+| [enterprise-rag-pipeline](https://github.com/rahilvasaya-tech/enterprise-rag-pipeline) | Full enterprise RAG architecture; query intelligence, hybrid retrieval, citation, governance |
 | [ai-architecture-playbook](https://github.com/rahilvasaya-tech/ai-architecture-playbook) | Design patterns and decisions for production enterprise RAG systems |
 | [blob-rag-ingestion-pipeline](https://github.com/rahilvasaya-tech/blob-rag-ingestion-pipeline) | Event-driven document ingestion using Azure Functions and Document Intelligence |
 | [nl-to-sql-analytics](https://github.com/rahilvasaya-tech/nl-to-sql-analytics) | Natural language to SQL analytics engine with enterprise security guardrails |
